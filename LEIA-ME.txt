@@ -1,0 +1,11 @@
+Estrutura da formação Java
+
+Sessões 1 a 3: pastas baseadas nos materiais enviados.
+Sessão 1: HelloWorld.
+Sessão 2: exercícios e exemplo de calculadora if/else.
+Sessão 3: dez desafios.
+Sessões 4 a 16: reservadas, sem exercícios inventados; falta receber os materiais.
+
+Cada pasta contém .gitkeep vazio. Criar ficheiros .java para escrever código. Este arquivo não inclui soluções nem é um repositório Git inicializado.
+
+Extrair para um local separado se já existir uma pasta de trabalhos. Copiar apenas o que falta sem substituir códigos existentes.

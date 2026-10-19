@@ -1,0 +1,15 @@
+# Pastas de compilação Maven
+target/
+*/target/
+*/*/target/
+
+# Ficheiros do VS Code
+.vscode/
+
+# Ficheiros temporários do sistema
+Thumbs.db
+Desktop.ini
+
+# Ficheiros do IntelliJ, caso venha a usar
+.idea/
+*.iml

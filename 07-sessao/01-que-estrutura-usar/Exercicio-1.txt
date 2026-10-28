@@ -1,0 +1,11 @@
+Respostas:
+1. List (ArrayList) — interessa a ordem.
+2. Set (HashSet) — só interessam os diferentes.
+3. Map (HashMap<String, Double>) — procurar pelo código.
+4. List (ArrayList) — há repetidos e a ordem conta.
+5. Set (HashSet ou LinkedHashSet se quisermos a ordem das visitas).
+6. Map (HashMap<String, Integer>) — nome do aluno → faltas.
+7. Set ordenado: TreeSet.
+8. Queue (ArrayDeque) — FIFO. Também se aceita List, mas Queue é a resposta "certa".
+
+Pergunta extra: e se quisermos guardar, para cada aluno, a lista das suas notas? → Map<String, List<Double>> (coleções dentro de coleções).

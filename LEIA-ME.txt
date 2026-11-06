@@ -1,11 +1,43 @@
-Estrutura da formação Java
+FORMAÇÃO EM JAVA
+UC00619 | Desenvolver aplicações em linguagem JAVA
 
-Sessões 1 a 3: pastas baseadas nos materiais enviados.
-Sessão 1: HelloWorld.
-Sessão 2: exercícios e exemplo de calculadora if/else.
-Sessão 3: dez desafios.
-Sessões 4 a 16: reservadas, sem exercícios inventados; falta receber os materiais.
+Repositório de trabalho da formação em Java, destinado a reunir exercícios, exemplos práticos, avaliações e projectos desenvolvidos ao longo das sessões.
 
-Cada pasta contém .gitkeep vazio. Criar ficheiros .java para escrever código. Este arquivo não inclui soluções nem é um repositório Git inicializado.
+OBJECTIVO
 
-Extrair para um local separado se já existir uma pasta de trabalhos. Copiar apenas o que falta sem substituir códigos existentes.
+Acompanhar a aprendizagem e a aplicação dos conteúdos da formação, desde os fundamentos da linguagem até ao desenvolvimento de aplicações com programação orientada a objectos, persistência de dados e ferramentas do ecossistema Java.
+
+Este espaço permite conservar o histórico do trabalho, rever soluções e consolidar conhecimentos através da prática.
+
+ORGANIZAÇÃO
+
+Os conteúdos estão organizados por sessões, com áreas complementares para experiências e projectos finais.
+
+A estrutura é actualizada à medida que a formação avança. Algumas áreas podem estar reservadas para trabalho futuro, pelo que a existência de uma pasta não significa que o respectivo conteúdo esteja concluído.
+
+CONTEÚDOS
+
+O repositório pode incluir:
+- Exercícios propostos nas aulas e respectivas resoluções.
+- Exemplos de código e experiências de aprendizagem.
+- Trabalhos de avaliação.
+- Projectos de aplicação dos conhecimentos adquiridos.
+- Notas e documentação de apoio.
+
+Os trabalhos podem encontrar-se em diferentes estados de desenvolvimento. Algumas soluções são exercícios introdutórios ou versões intermédias e não devem ser interpretadas como aplicações prontas para utilização em produção.
+
+TECNOLOGIAS E EXECUÇÃO
+
+Java é a linguagem principal da formação. A utilização de ferramentas e tecnologias complementares, como Maven e Spring Boot, depende dos conteúdos de cada trabalho.
+
+Cada exercício ou projecto deve ser aberto e executado de acordo com a sua estrutura e os respectivos requisitos. Quando necessário, as instruções específicas constam da documentação que o acompanha.
+
+CONTROLO DE VERSÕES
+
+O Git é utilizado para registar a evolução do trabalho, e o GitHub para alojar e sincronizar o repositório.
+
+As alterações devem preservar os exercícios e projectos existentes, com mensagens de commit que identifiquem claramente o trabalho realizado.
+
+NOTA
+
+Este repositório tem finalidade educativa e acompanha a evolução da formação. Os conteúdos podem ser corrigidos, reorganizados ou complementados ao longo do percurso.
